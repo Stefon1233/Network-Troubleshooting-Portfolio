@@ -1,0 +1,6 @@
+==== SUMMARY ====                                                                                         
+Upload capacity: 158.102 Mbps
+Download capacity: 294.086 Mbps
+Upload flows: 20
+Download flows: 20
+Responsiveness: Medium (436 RPM)
